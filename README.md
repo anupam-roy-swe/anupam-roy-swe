@@ -15,7 +15,7 @@
 
 - 🔭 I’m looking to learn **React | Nextjs| Node.js**
 
-- 🌱 I’m currently learning **Goo**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **my favorite songs and the list of R&B and afrobeats will never end**
 
