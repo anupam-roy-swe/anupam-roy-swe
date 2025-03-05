@@ -9,7 +9,7 @@
 </h1>
 ---
 
-<h3 align="center">I am a passionate Backend Focus Full Stack Developer from Bangladesh.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">I am a passionate Web Developer from Bangladesh.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 ### :woman_technologist: About Me :
 
